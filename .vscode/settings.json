@@ -1,4 +1,8 @@
 {
     "python.autoComplete.extraPaths": ["./Python"],
-    "java.project.sourcePaths": [""]
+    "java.project.sourcePaths": [
+        ""
+    ],
+    "editor.fontFamily": "Fire Code iScript, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": null
 }
