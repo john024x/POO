@@ -4,5 +4,8 @@
         ""
     ],
     "editor.fontFamily": "Fire Code iScript, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontLigatures": null
+    "editor.fontLigatures": null,
+    "python.analysis.extraPaths": [
+        "./Python"
+    ]
 }
